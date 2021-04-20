@@ -1,4 +1,4 @@
-# Zgadnij liczę.
+# Zgadnij liczbę.
 To Jest taka gra którą się zgaduje liczbę
 
 
