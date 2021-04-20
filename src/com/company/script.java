@@ -6,7 +6,7 @@
 package com.company;
 import java.util.Random;
 import java.util.Scanner;
-public class Main {
+public class script {
     public static void main(String[] args) {
         int i = 0;
         int los;
